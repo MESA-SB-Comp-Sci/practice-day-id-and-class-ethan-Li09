@@ -33,3 +33,20 @@
     color: red;
     text-align: center;
 }
+
+.img-style {
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.badge {
+    background-color: yellow;
+    border: 2px solid gold;
+    border-radius: 12px;
+}
+
+#footer-style {
+    background: #1e1e1e;
+    color: #ffffff;
+    text-align: center;
+}
